@@ -4,4 +4,17 @@ main{
     justify-content: center;
     align-items: center;
     flex-grow: 1;
+    flex-direction: column;
+}
+h1{
+    margin-bottom: 30px;
+}
+p{
+    font-size: 40px;
+    font-size: bold;
+}
+button{
+    font-size: 20px;
+    padding: 5px 10px;
+    margin: 10px;
 }
